@@ -2,9 +2,12 @@
 
 To study and implement C++ decision making statements Loops
 
-Aim: To study and implement decision-making statements and loops in C++ in order to understand the control flow and structure of iterative and conditional programming constructs.
+Aim:
+
+To study and implement decision-making statements and loops in C++ in order to understand the control flow and structure of iterative and conditional programming constructs.
 
 Procedure:
+
 Write a program using a for loop to execute a block of code for a fixed number of iterations.
 
 Implement a while loop to repeatedly execute a block of code as long as a given condition is true.

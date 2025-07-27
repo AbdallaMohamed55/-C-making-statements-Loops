@@ -6,7 +6,7 @@ To study and implement C++ decision making statements Loops
 
 To study and implement decision-making statements and loops in C++ in order to understand the control flow and structure of iterative and conditional programming constructs.
 
-Procedure:
+# Procedure:
 
 Write a program using a for loop to execute a block of code for a fixed number of iterations.
 
@@ -25,7 +25,7 @@ Display appropriate output after each loop execution to visualize results.
 Compile and run each program to verify correct execution and logic.
 
 
-Algorithm:
+# Algorithm:
 
 Angled Triangle Pattern:
 

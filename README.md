@@ -24,9 +24,11 @@ Display appropriate output after each loop execution to visualize results.
 
 Compile and run each program to verify correct execution and logic.
 
+
 Algorithm:
 
 Angled Triangle Pattern:
+
 
 Step 1: Start
 
@@ -48,7 +50,9 @@ Step 3: Repeat while i ≤ 5 (for each row):
   
 Step 4: End
 
+
 Sequential Number Triangle Pattern
+
 
 Step 1: Start
 

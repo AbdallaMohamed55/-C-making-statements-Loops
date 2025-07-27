@@ -63,10 +63,10 @@ Step 3: Repeat for i from 1 to rows:
   a. Repeat for j from 1 to i:
   
    
-    i. Print number followed by a space
+  i. Print number followed by a space
     
     
-    ii. Increment number by 1
+  ii. Increment number by 1
   
   
   b. Move to a new line after the inner loop

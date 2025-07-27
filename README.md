@@ -24,3 +24,16 @@ Display appropriate output after each loop execution to visualize results.
 
 Compile and run each program to verify correct execution and logic.
 
+Algorithm:
+
+Angled Triangle Pattern:
+Step 1: Start
+Step 2: Initialize loop variable i = 1
+Step 3: Repeat while i ≤ 5 (for each row):
+  a. Initialize j = 1
+  b. Repeat while j ≤ i (print stars):
+    i. Print "*"
+    ii. Increment j
+  c. Move to a new line after inner loop
+  d. Increment i
+Step 4: End

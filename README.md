@@ -47,3 +47,25 @@ Step 3: Repeat while i ≤ 5 (for each row):
   d. Increment i
   
 Step 4: End
+
+Sequential Number Triangle Pattern
+
+Step 1: Start
+
+Step 2: Set rows ← 4 and number ← 1
+
+Step 3: Repeat for i from 1 to rows:
+
+  a. Repeat for j from 1 to i:
+  
+    i. Print number followed by a space
+    
+    ii. Increment number by 1
+  
+  b. Move to a new line after the inner loop
+
+Step 4: End
+
+Conclusion
+
+In this study, we have explored and incorporated C++ decision statements (if, else if, switch) and loops (for, while, do-while) in order to control the flow of a program. These basic constructs are important in addressing many problems where repeated activity or conditional activity is involved. Using nested loops and nests of if conditions, we were able to create all sorts of output patterns as well as logical programs. Experiencing and mastering these concepts allows us to build an appropriate foundation for completing useful and organized C++ applications.
